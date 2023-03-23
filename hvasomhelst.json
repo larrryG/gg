@@ -1,10 +1,10 @@
 {
-    "tittel" : "Kjente gitarer",
-    "gitarer" : [
-        { "merke" : "Gibson", "modell" : "Les Paul" }, 
-        { "merke" : "Gibson", "modell" : "SG" }, 
-        { "merke" : "Gibson", "modell" : "Flying V" }, 
-        { "merke" : "Fender", "modell" : "Stratocaster" }, 
-        { "merke" : "Fender", "modell" : "Telecaster" }
+    "tittel" : "Ulike sitater", [
+        { "sitat" : "de ga oss mye å tenke på, men ikke mye å tenke med" }, 
+        { "sitat" : "jeg kan motstå alt, utenom fristelser" }, 
+        { "sitat" : "jeg har ikke peiling, men jeg har mye annet" }, 
+        { "sitat" : "når en kråke mister faren sin, er det trist å være kråke" }, 
+        { "sitat" : "min mor har et yndelig vesen, det er meg" },
+        { "sitat" : "my dad got expired so my mommy got a new one🥶" }
     ]
 }
